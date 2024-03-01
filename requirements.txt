@@ -1,9 +1,8 @@
-tensorflow==2.16.0rc0
+tensorflow==2.12.0
 pandas 
 gdown
 dvc
-pyarrow==14.0.0
-mlflow
+mlflow==2.2.2
 notebook
 numpy
 matplotlib
@@ -11,10 +10,11 @@ seaborn
 python-box==6.0.2
 pyYAML
 tqdm
-ensure
+ensure==1.0.2
 joblib
 types-PyYAML
 scipy
 Flask
 Flask-Cors
 -e .
+
